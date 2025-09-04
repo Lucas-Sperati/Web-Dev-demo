@@ -1,3 +1,0 @@
-cd into your .ssh folder
-type in ssh-keygen
-leave everything default 
