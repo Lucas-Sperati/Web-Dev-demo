@@ -30,3 +30,4 @@ To use heading 6, we use six hash(######) keys.
 4. Last minute addition
 5. Second last minute addition
 
+Correct Git commit message: git commit
